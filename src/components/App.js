@@ -41,7 +41,7 @@ export default class App extends Component {
             <div style={{ margin: 0 }}>
                 {/* <Nav /> */}
                 <div style={{ position: 'fixed', zIndex: 400 }}>
-                {/* <Nav /> */}
+                    <Nav />
 
                 </div>
                 {/* <Box /> */}
