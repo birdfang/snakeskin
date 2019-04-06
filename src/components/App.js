@@ -12,7 +12,7 @@ import ProjectDetail from '../pages/ProjectDetail'
 import { ThemeProvider } from 'styled-components'
 import { mainTheme } from '../styles/theme'
 
-import '../styles/main.css'
+//import '../styles/main.css'
 
 // let Bridge = Loadable({
 //     loader: () => import('./gl_components/Bridge'),
