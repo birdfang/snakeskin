@@ -18,7 +18,7 @@ import { mainTheme } from '../styles/theme'
 //     loader: () => import('./gl_components/Bridge'),
 //     loading: () => <div style={{ color: 'white', fontSize: 80 }}>LOADING BRAH</div>
 // })
-const Bridge = React.lazy(() => import('./gl_components/Bridge'));
+// const Bridge = React.lazy(() => import('./gl_components/Bridge'));
 
 
 
